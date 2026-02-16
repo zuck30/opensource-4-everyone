@@ -113,5 +113,7 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   Bio: Frontend Developer
-
+  
+- [Timothy Zucker](https://github.com/zuck30)
+  Bio: ML and Full-Stack Engineer.
 
